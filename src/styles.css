@@ -1,0 +1,32 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  margin: -22px;
+}
+
+h1 {
+  background-color: pink;
+  padding: 1rem;
+}
+
+.dob {
+  color: black;
+  padding: 2rem;
+}
+.luckynum {
+  color: green;
+  padding: 1rem;
+}
+
+.check {
+  padding: 1rem;
+}
+
+button {
+  border-radius: 0.5rem;
+}
+
+textarea {
+  min-width: 30vh;
+  min-height: 10vh;
+}
